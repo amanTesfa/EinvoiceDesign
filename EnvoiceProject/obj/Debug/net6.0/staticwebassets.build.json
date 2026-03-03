@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CFWZdYzVae1enD+w1eOloyl0nO29VFt6G3w5B+wFCmI=",
+  "Hash": "Gz8OLMLY2S0gXv+x2JThTBG1vILYp7gwlVHZS6y7gw0=",
   "Source": "EnvoiceProject",
   "BasePath": "_content/EnvoiceProject",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "EnvoiceProject\\wwwroot",
       "Source": "EnvoiceProject",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\wwwroot\\",
       "BasePath": "_content/EnvoiceProject",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EnvoiceProject.styles.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EnvoiceProject.styles.css",
       "SourceId": "EnvoiceProject",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/EnvoiceProject",
       "RelativePath": "EnvoiceProject.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EnvoiceProject.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EnvoiceProject.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EnvoiceProject.bundle.scp.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EnvoiceProject.bundle.scp.css",
       "SourceId": "EnvoiceProject",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/EnvoiceProject",
       "RelativePath": "EnvoiceProject.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EnvoiceProject.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EnvoiceProject.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\wwwroot\\app.css",
       "SourceId": "EnvoiceProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\wwwroot\\",
       "BasePath": "_content/EnvoiceProject",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\wwwroot\\css\\forest.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\wwwroot\\css\\forest.css",
       "SourceId": "EnvoiceProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\wwwroot\\",
       "BasePath": "_content/EnvoiceProject",
       "RelativePath": "css/forest.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\forest.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\wwwroot\\css\\site.css",
       "SourceId": "EnvoiceProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\wwwroot\\",
       "BasePath": "_content/EnvoiceProject",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\wwwroot\\css\\site.tmp.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\wwwroot\\css\\site.tmp.css",
       "SourceId": "EnvoiceProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\wwwroot\\",
       "BasePath": "_content/EnvoiceProject",
       "RelativePath": "css/site.tmp.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.tmp.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\wwwroot\\favicon.ico",
       "SourceId": "EnvoiceProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\wwwroot\\",
       "BasePath": "_content/EnvoiceProject",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\wwwroot\\js\\site.js",
       "SourceId": "EnvoiceProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\wwwroot\\",
       "BasePath": "_content/EnvoiceProject",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\wwwroot\\lib\\jquery\\jquery.min.js",
       "SourceId": "EnvoiceProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\wwwroot\\",
       "BasePath": "_content/EnvoiceProject",
       "RelativePath": "lib/jquery/jquery.min.js",
       "AssetKind": "All",

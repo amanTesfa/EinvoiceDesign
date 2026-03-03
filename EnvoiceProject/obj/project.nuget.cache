@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q0JN2Hm+LB2l8c4U7n3+CVKfJFuPQ1NTKzk3FXFDKE66E8VgdIANAGnuKEBpS6JxjKM58S3idIOVweRl2LrkMg==",
+  "dgSpecHash": "0Md6jd3tr5Dk+DgvJlbOBs9D2rXF5XXvtTRvDPF225NCOaBVy/OLM0NWoGvJz2YKY+CIvvSpK6x6SR6XgsiVQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Design1\\WebApplication1\\EnvoiceProject\\EnvoiceProject.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Projects\\EinvoiceDesign\\EnvoiceProject\\EnvoiceProject.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages\\devexpress.aspnetcore.common\\21.2.6\\devexpress.aspnetcore.common.21.2.6.nupkg.sha512",
     "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages\\devexpress.aspnetcore.core\\21.2.6\\devexpress.aspnetcore.core.21.2.6.nupkg.sha512",
